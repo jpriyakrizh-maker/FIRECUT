@@ -1,0 +1,25 @@
+:root {
+  --cream: #D8C3A5;
+  --cream-light: #E7D6BD;
+  --cream-dark: #B99B73;
+
+  --ink: #17110D;
+  --ink-soft: #2A211B;
+  --muted: #594D43;
+
+  --orange: #B84A24;
+  --orange-light: #D56A35;
+
+  --wine: #632F32;
+  --olive: #4D5135;
+  --blue: #314B52;
+  --gold: #8A6837;
+
+  --line: rgba(23, 17, 13, 0.18);
+
+  --shadow:
+    0 25px 70px rgba(48, 31, 18, 0.20);
+
+  --radius: 24px;
+  --max-width: 1240px;
+}
